@@ -73,7 +73,6 @@ st.write("- CGPA: 3.75/4.00")
 st.write("**Bachelor of Information Technology (HONS)** – UNIVERSITY MALAYSIA KELANTAN(2023 – PRESENT)")
 st.write("- CGPA: 3.42/4.00")
 st.write("- Relevant Coursework: Data Structures, Machine Learning, Databases, Cloud Computing")
-st.markdown("</div>", unsafe_allow_html=True)
 
 # -------------------------------
 # WORK EXPERIENCE
