@@ -8,7 +8,7 @@ st.set_page_config(page_title="Resume | Your Name", page_icon="💼", layout="wi
 # -------------------------------
 # HEADER
 # -------------------------------
-st.title("💼 Your Full Name")
+st.title("💼 POOPATHY A/L RAVI")
 st.write("Aspiring Data Scientist | Software Developer | Tech Enthusiast")
 
 # Profile Picture (Optional)
@@ -20,11 +20,11 @@ st.write("Aspiring Data Scientist | Software Developer | Tech Enthusiast")
 st.subheader("📌 Contact Information")
 col1, col2 = st.columns(2)
 with col1:
-    st.write("📧 Email: your.email@example.com")
-    st.write("📱 Phone: +60 12-3456789")
+    st.write("📧 Email: poopathyswaq@gmail.com")
+    st.write("📱 Phone: +60 11-175771586")
 with col2:
-    st.write("🔗 [LinkedIn](https://linkedin.com/in/yourprofile)")
-    st.write("🌐 [GitHub](https://github.com/yourusername)")
+    st.write("🔗 [LinkedIn](https://linkedin.com/in/poopathy-ravi)")
+    st.write("🌐 [GitHub](https://github.com/Poopathyy)")
 
 st.markdown("---")
 
@@ -32,8 +32,10 @@ st.markdown("---")
 # EDUCATION
 # -------------------------------
 st.subheader("🎓 Education")
-st.write("**Bachelor of Computer Science (Hons)** – University XYZ (2021 – 2025)")
+st.write("**Diploma in Information Technology** – POLITEKNIK SEBERANG PERAI, PENANG(2019 – 2022)")
 st.write("- CGPA: 3.75/4.00")
+st.write("**Bachelor of Information Technology (HONS) ** – POLITEKNIK SEBERANG PERAI, PENANG(2023 – PRESENT)")
+st.write("- CGPA: 3.42/4.00")
 st.write("- Relevant Coursework: Data Structures, Machine Learning, Databases, Cloud Computing")
 
 st.markdown("---")
