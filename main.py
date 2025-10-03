@@ -45,15 +45,13 @@ st.markdown("---")
 # -------------------------------
 st.subheader("💼 Work Experience")
 
-st.write("**Software Engineering Intern** – ABC Tech Sdn Bhd (Jun 2024 – Sep 2024)")
-st.write("- Developed web applications using Django & React")
-st.write("- Implemented REST APIs and optimized backend queries by 20%")
-st.write("- Collaborated with a team of 5 engineers in an Agile environment")
+st.write("**Human Resource Assistant** – ACA Elite Sdn Bhd, Melaka (April 2022 – July 2022)")
+st.write("- Supported administrative functions and staff coordination")
+st.write("- Maintained and organized employee records")
 
-st.write("**Research Assistant** – University XYZ (Jan 2023 – Dec 2023)")
-st.write("- Conducted research on Deep Learning models for NLP")
-st.write("- Published a paper in IEEE Conference 2023")
-st.write("- Assisted in teaching Python and Data Analysis labs")
+st.write("**Waiter** – GENTING HIGHLANDS, PAHANG (Dec 2018 – April 2029)")
+st.write("- Provided high-quality customer service in a fast-paced environment")
+st.write("- Developed communication and teamwork skills")
 
 st.markdown("---")
 
@@ -80,27 +78,14 @@ with col3:
 st.markdown("---")
 
 # -------------------------------
-# PROJECTS / ACHIEVEMENTS
-# -------------------------------
-st.subheader("🚀 Projects & Achievements")
-
-st.write("**Stock Market Prediction App** – Built an LSTM model to predict FBMKLCI trends with 85% accuracy.")
-st.write("**IoT Livestock Tracker** – Designed IoT-based smart livestock monitoring system for mountainous areas.")
-st.write("**Hackathon Winner** – 1st Place in National AI Innovation Hackathon 2024.")
-st.write("**Open Source Contributor** – Contributed to NLP libraries on GitHub.")
-
-st.markdown("---")
-
-# -------------------------------
 # OTHER INFORMATION
 # -------------------------------
 st.subheader("🌟 Other Information")
 
-st.write("- Languages: English, Malay, Mandarin")
-st.write("- Interests: Artificial Intelligence, Blockchain, Cloud Computing, Startups")
-st.write("- Volunteer Work: Tech Mentor at Local Coding Bootcamp")
+st.write("- Languages: English, Malay, Mandarin, Tamil")
+st.write("- Interests: Artificial Intelligence, Gaming , Cloud Computing, Startups")
 
 st.markdown("---")
 
 # Footer
-st.caption("© 2025 Your Name | Made with Streamlit")
+st.caption("© 2025 POOPATHY | Made with Streamlit")
