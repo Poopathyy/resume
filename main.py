@@ -1,21 +1,31 @@
-     import streamlit as st
+import streamlit as st
 
-     st.title("Your Name's Resume")
-     st.header("Contact Information")
-     st.write("Email: your.email@example.com")
-     st.write("Phone: (123) 456-7890")
-     st.write("LinkedIn: linkedin.com/in/yourprofile")
+# Title
+st.title("Your Name's Resume")
 
-     st.header("Education")
-     st.write("Degree, University Name, Year")
+# Contact Info
+st.header("Contact Information")
+st.write("📧 your.email@example.com")
+st.write("📱 +6012-3456789")
+st.write("🔗 [LinkedIn](https://linkedin.com/in/yourprofile)")
 
-     st.header("Work Experience")
-     st.write("Job Title, Company Name, Year")
-     st.write("- Description of responsibilities and achievements")
+# Education
+st.header("Education")
+st.write("Bachelor of Computer Science, University XYZ (2021-2025)")
 
-     st.header("Skills")
-     st.write("- Skill 1")
-     st.write("- Skill 2")
+# Work Experience
+st.header("Work Experience")
+st.write("Intern, ABC Company (2024)")
+st.write("- Assisted in developing web applications using Django and React")
 
-     st.header("Projects")
-     st.write("Project Name: Description")
+# Skills
+st.header("Skills")
+st.write("- Python")
+st.write("- Data Analysis")
+st.write("- Machine Learning")
+
+# Projects
+st.header("Projects")
+st.write("📌 Portfolio Website – Built with Streamlit")
+st.write("📌 Stock Prediction – LSTM model for FBMKLCI dataset")
+
