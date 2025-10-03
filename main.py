@@ -34,7 +34,7 @@ st.markdown("---")
 st.subheader("🎓 Education")
 st.write("**Diploma in Information Technology** – POLITEKNIK SEBERANG PERAI, PENANG(2019 – 2022)")
 st.write("- CGPA: 3.75/4.00")
-st.write("**Bachelor of Information Technology (HONS) ** – POLITEKNIK SEBERANG PERAI, PENANG(2023 – PRESENT)")
+st.write("**Bachelor of Information Technology (HONS)** – UNIVERSITY MALAYSIA KELANTAN(2023 – PRESENT)")
 st.write("- CGPA: 3.42/4.00")
 st.write("- Relevant Coursework: Data Structures, Machine Learning, Databases, Cloud Computing")
 
