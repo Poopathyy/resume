@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-color: #f0f8ff; /* Light blue pastel */
+        background-color: #87ceeb; /* Sky blue pastel */
     }
     h1, h2, h3 {
         color: #2c3e50;
@@ -51,7 +51,7 @@ st.write("- Relevant Coursework: Data Structures, Machine Learning, Databases, C
 # -------------------------------
 # WORK EXPERIENCE
 # -------------------------------
-st.header("### 💼 Work Experience")
+st.header("💼 Work Experience")
 
 st.write("**Human Resource Assistant** – ACA Elite Sdn Bhd, Melaka (April 2022 – July 2022)")
 st.write("- Supported administrative functions and staff coordination")
