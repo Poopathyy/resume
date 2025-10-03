@@ -64,7 +64,7 @@ st.write("- Developed communication and teamwork skills")
 # -------------------------------
 # SKILLS
 # -------------------------------
-st.header("### 🛠️ Skills")
+st.header("🛠️ Skills")
 
 col1, col2, col3 = st.columns(3)
 
@@ -84,7 +84,7 @@ with col3:
 # -------------------------------
 # OTHER INFORMATION
 # -------------------------------
-st.header("### 🌟 Other Information")
+st.header("🌟 Other Information")
 st.write("- Languages: English, Malay, Mandarin, Tamil")
 st.write("- Interests: Artificial Intelligence, Gaming , Cloud Computing, Startups")
 
