@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-color: #87ceeb; /* Sky blue pastel */
+        background-color: #f7f9f9; /* Sky blue pastel */
     }
     h1, h2, h3 {
         color: #2c3e50;
