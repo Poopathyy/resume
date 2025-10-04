@@ -23,7 +23,8 @@ st.markdown(
 # -------------------------------
 # HEADER
 # -------------------------------
-st.title("💼 POOPATHY A/L RAVI")
+st.title("RESUME")
+st.image("profilePic.jpeg", width=180, caption="**POOPATHY A/L RAVI**")
 st.write("Aspiring Data Scientist | Software Developer | Tech Enthusiast")
 
 # Profile Picture (Optional)
